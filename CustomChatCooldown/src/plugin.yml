@@ -1,0 +1,13 @@
+name: CustomChatCooldown
+main: com.reprevise.ccc.CustomChatCooldown
+version: 0.1
+description: Adds a custom chat cooldown that varies with rank
+author: Reprevise
+commands:
+  chat:
+    description: Main command for CustomChatCooldown
+    permission: cc.cooldown
+    permission-message: You don't have permission.
+permissions:
+  cc.cooldown:
+    description: Allows for the use of /chat

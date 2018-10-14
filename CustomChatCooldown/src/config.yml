@@ -1,0 +1,11 @@
+#-------------------------#
+# Custom Chat Cooldown 
+#     Config File
+#-------------------------#
+
+#Prefix of the plugin:
+prefix: "&6&lCHAT &8| "
+
+#Lines to say when the user chats before the time is up
+cooldownwaittime: "&6&l[!] &7You can chat in &6 %seconds% seconds &7again"
+cooldownwaittimeline: "&7(( &fPurchase a rank to shorten the cooldown&7 ))"
